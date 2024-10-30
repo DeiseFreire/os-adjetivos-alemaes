@@ -2,8 +2,6 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 
 ## Termos-chave do artigo
 
-Os termos-chave do artigo são:
-
 * **Adjetivos alemães:** O foco principal do texto é a gramática da língua alemã, mais especificamente a parte dos adjetivos.
 * **Uso dos adjetivos:** O texto aborda como os adjetivos são empregados em frases alemãs, suas funções e posições.
 * **Inflexão:** Refere-se às mudanças que os adjetivos sofrem em gênero, número e caso, para concordar com o substantivo a que se referem.
