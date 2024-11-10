@@ -15,4 +15,4 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
     * **Conversões de substantivos.** 
     * **Invenções de adjetivos.** 
  
-* O texto destaca que definições semânticas de adjetivos, como as que se baseiam no significado, são limitadas e raramente encontradas em gramáticas científicas. A classificação de palavras como adjetivos é geralmente feita com base em critérios morfossintáticos, ou seja, na forma e na função da palavra na frase.
+* O texto destaca que definições semânticas de adjetivos, como as que se baseiam no significado. A classificação de palavras como adjetivos é geralmente feita com base em critérios morfossintáticos, ou seja, na forma e na função da palavra na frase.
