@@ -2,8 +2,6 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 
 ## Resumo das várias definições de adjetivos
 
-<a href="" target="blank"><img align="left" src="https://github.com/user-attachments/assets/09fc6ea2-55a5-4d46-8353-c8cecdf64280" alt="" height="300" /></a>
-
 **A definição do adjetivo não é uniforme em linguística.** Diferentes linguistas enfatizam diferentes aspectos:
 
 * **Ulrich:** Os adjetivos nomeiam propriedades ou características de pessoas, coisas, eventos ou circunstâncias.
