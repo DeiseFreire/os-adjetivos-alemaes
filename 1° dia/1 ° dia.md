@@ -1,21 +1,34 @@
 DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Flexion und die Frage: Wann benützt man welche Deklinationsart?. 外国語教育論集, n. 38, p. 1-16, 2016. 
 
-## Termos-chave do artigo
+## Zusammenfassung der Argumentation.
 
-* **Adjetivos alemães:** O foco principal do texto é a gramática da língua alemã, mais especificamente a parte dos adjetivos.
-* **Uso dos adjetivos:** O texto aborda como os adjetivos são empregados em frases alemãs, suas funções e posições.
-* **Inflexão:** Refere-se às mudanças que os adjetivos sofrem em gênero, número e caso, para concordar com o substantivo a que se referem.
-* **Declinação:** Um tipo específico de inflexão, a declinação dos adjetivos varia de acordo com o artigo que os acompanha (definido, indefinido ou nenhum) e o caso gramatical da frase.
-* **Tipos de declinação:** O texto provavelmente discute os diferentes tipos de declinação que os adjetivos podem sofrer em alemão, dependendo do contexto.
+* Der Text beschäftigt sich mit den Schwierigkeiten, die Adjektivendungen im Deutschunterricht für Fremdsprachenlerner darstellen. 
 
-## Perguntas
+* Zentrale Problematik ist die Komplexität der Adjektivdeklination, die von verschiedenen Faktoren abhängt und für Lerner oft unübersichtlich ist.
 
-* **Função dos adjetivos em alemão:** Qual é o papel dos adjetivos nas frases? Como eles descrevem substantivos?
-* **Posição dos adjetivos:** Onde os adjetivos são colocados em relação ao substantivo?
-* **Inflexão dos adjetivos:** Quais são as regras de concordância entre adjetivos e substantivos?
-* **Tipos de declinação:** Quais são os principais tipos de declinação e quando cada um deles é usado?
-* **Exemplos:** O texto provavelmente apresenta exemplos práticos para ilustrar os conceitos abordados.
+* Ausgangspunkt ist die Frage nach der Definition eines Adjektivs. Es wird deutlich, dass Sprachwissenschaftler unterschiedliche Auffassungen vertreten. 
 
-## Por que esses termos são importantes?
+* Während einige Adjektive primär semantisch als Eigenschaftswörter definieren, betonen andere ihre syntaktische Funktion und die Fähigkeit zur Steigerung.
 
-Compreender os adjetivos são uma parte da linguagem e sua correta utilização para a construção de frases. A inflexão e a declinação dos adjetivos são regras gramaticais que precisam ser dominadas para se comunicar em alemão.
+* Kernaussage ist, dass die Vielfalt der Adjektivendungen und ihre Abhängigkeit vom Kontext den größten Lernhindernis darstellen. 
+
+* Die Autoren wollen daher eine Übersicht erstellen, die den Lernenden die Adjektivdeklination vereinfacht und verständlich macht.
+
+## Kernpunkte und Ziele.
+
+* Problem: Komplexität der Adjektivendungen.
+  
+* Ziel: Entwicklung einer übersichtlichen Darstellung der Adjektivdeklination für Deutschlerner.
+  
+* Grundlage: Analyse unterschiedlicher Definitionen und Beschreibungen von Adjektiven.
+  
+* Fokus: Die Abhängigkeit der Adjektivendungen vom Kontext als zentrale Schwierigkeit.
+  
+* Ergebnis: Erstellung einer Tabelle oder eines Schemas zur Veranschaulichung der Deklinationsmuster.
+
+## Fazit.
+* Der Text liefert eine solide Grundlage für die Entwicklung eines Lehrmaterials zur Adjektivdeklination.
+  
+* Er betont die Notwendigkeit einer klaren und strukturierten Darstellung, um die Komplexität des Themas für Lernende zu reduzieren.
+  
+* Die Autoren erkennen die Bedeutung des Kontextes für die Wahl der richtigen Adjektivendung an und möchten dies in ihrem Material berücksichtigen.
