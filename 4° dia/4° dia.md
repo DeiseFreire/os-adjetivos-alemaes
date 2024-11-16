@@ -3,7 +3,8 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 ## Resumo do texto sobre adjetivos em alemão
 
 * Adjetivos derivados de nomes de: 
-  *países, por exemplo: 
+  * países, por exemplo: 
      * Montegassisch.
      * Bundesrepublikanisch.
-     * Guatemaltekisch (em vez de Guatemalisch, já que é chamado de Guatemalteco em espanhol).
+     * Guatemaltekisch
+       * (em vez de Guatemalisch
