@@ -1,27 +1,42 @@
 DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Flexion und die Frage: Wann benützt man welche Deklinationsart?. 外国語教育論集, n. 38, p. 1-16, 2016. 
 
-## Resumo das várias definições de adjetivos
+## Zusammenfassung von Schneiders Kritik an Adjektiven
 
-**A definição do adjetivo não é uniforme em linguística.** Diferentes linguistas enfatizam diferentes aspectos:
+**Kernpunkte von Schneiders Argumentation:**
 
-* **Ulrich:** Os adjetivos nomeiam propriedades ou características de pessoas, coisas, eventos ou circunstâncias.
-* **Bußmann:** Adjetivos são uma classe gramatical que está sintaticamente ligada a substantivos e às vezes também tem valência.
-* **Meinert:** Os adjetivos podem ser flexionados, comparados e congruentes com o substantivo de referência.
-* **Engel:** Adjetivos são palavras sem gênero constante que podem ficar entre determinantes e substantivos.
+* **Adjektive als Füllwörter:** Schneider argumentiert, dass viele Adjektive in Texten überflüssig sind und eher verwirren als klären. Sie würden Sätze aufblähen und die Lesbarkeit beeinträchtigen.
+* **Schädliche Wirkung von Adjektiven:** Adjektive können zu Mehrdeutigkeiten und Widersprüchen führen und die Aussage eines Satzes verwässern.
+* **Streichen von Adjektiven:** Schneider empfiehlt, etwa zwei Drittel aller Adjektive als Füllwörter einzustufen und zu streichen.
 
-**Gemeinsamkeiten:**
-* Todas as definições enfatizam a função descritiva do adjetivo.
-* Todos os autores veem uma conexão entre adjetivo e substantivo.
+**Probleme mit der Bezeichnung "Eigenschaftswort":**
 
-**Unterschiede:**
-* **Semântica versus Sintaxe:** Enquanto Ulrich escolhe uma abordagem semântica, Bußmann e Engel enfatizam a função sintática.
-* **Flektierbarkeit e Komparierbarkeit:** Meinert e Eisenberg enfatizam a capacidade especial dos adjetivos de serem flexionados e comparados, enquanto Engel rejeita isso.
+* **Überlappung mit anderen Wortarten:** Auch Substantive können Eigenschaften bezeichnen.
+* **Adjektive ohne Eigenschaftsbedeutung:** Einige Adjektive dienen eher zur Klassifizierung oder Bewertung.
+* **Moderne Grammatik:** Die Bestimmung von Wortarten erfolgt heute meist nach morpho-syntaktischen Kriterien, nicht nach semantischen.
 
-**Dificuldades para alunos de alemão:**
-* O maior desafio para os alunos de alemão reside na complexa flexão dos adjetivos, que depende do ambiente sintático.
+**Konkrete Vorschläge von Schneider:**
 
-**Conclusão:**
-A definição do adjetivo é complexa e depende de diferentes abordagens teóricas. A aplicação prática é particularmente relevante para as aulas de alemão: os alunos alemães devem dominar os vários padrões de inflexão e a sua dependência do contexto.
+Schneider empfiehlt, folgende Arten von Adjektiven zu streichen:
 
-**Possível uso em aulas de DaF-Unterricht:**
-O resumo pode servir de base para uma apresentação clara da inflexão dos adjetivos e ajudar os alunos a compreender melhor as regras complexas.
+* **Edelfüllsel:** Hochtrabende, wenig aussagekräftige Adjektive.
+* **Tautologien:** Wiederholungen desselben Sinns in unterschiedlichen Worten.
+* **Zerlegungen von Komposita:** Unnötige Aufspaltung von zusammengesetzten Wörtern.
+* **Umwandlungen von Substantiven:** Ersetzung von Substantiven durch weniger aussagekräftige Adjektiv-Substantiv-Verbindungen.
+* **Erfindungen von Adjektiven:** Künstlich gebildete Adjektive, die oft schwerfällig und unverständlich sind.
+
+**Fazit:**
+
+Schneider plädiert für einen sparsamen Umgang mit Adjektiven. Er sieht in ihnen oft eine Quelle für unpräzise und umständliche Sprache. Seine Vorschläge zielen darauf ab, Texte präziser, klarer und verständlicher zu gestalten.
+
+**Hinweis:**
+
+Auch wenn Schneiders Kritik an Adjektiven berechtigt sein mag, ist ein völliger Verzicht auf Adjektive in der Regel nicht sinnvoll. Adjektive können dazu beitragen, einen Text lebendiger und anschaulicher zu gestalten. Es kommt immer auf den Kontext und die gewünschte Wirkung an.
+
+**Zusätzliche Aspekte:**
+
+* **Stilistische Aspekte:** Die Verwendung von Adjektiven kann auch stilistische Funktionen erfüllen, z.B. um eine bestimmte Atmosphäre zu schaffen oder eine emotionale Wirkung zu erzielen.
+* **Fachsprachen:** In Fachsprachen können Adjektive eine wichtige Rolle spielen, um präzise und eindeutige Aussagen zu treffen.
+
+**Fazit:**
+
+Schneiders Empfehlungen bieten eine wertvolle Anregung zur Überprüfung der eigenen Schreibweise. Ein bewusster Umgang mit Adjektiven kann dazu beitragen, Texte zu verbessern. 
