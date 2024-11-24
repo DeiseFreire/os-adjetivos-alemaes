@@ -1,34 +1,25 @@
 DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Flexion und die Frage: Wann benützt man welche Deklinationsart?. 外国語教育論集, n. 38, p. 1-16, 2016. 
 
-## Zusammenfassung der Argumentation.
+## Zusammenfassung
 
-* Der Text beschäftigt sich mit den Schwierigkeiten, die Adjektivendungen im Deutschunterricht für Fremdsprachenlerner darstellen. 
+**Der Text analysiert die Herausforderungen, die die deutsche Adjektivdeklination für Fremdsprachler darstellt.**
 
-* Zentrale Problematik ist die Komplexität der Adjektivdeklination, die von verschiedenen Faktoren abhängt und für Lerner oft unübersichtlich ist.
+Die **Hauptproblematik** liegt in der **Vielfalt und Komplexität** der Adjektivendungen, die von verschiedenen Faktoren wie Geschlecht, Zahl und Fall des Nomens abhängen. Dies führt oft zu Verwirrung bei Lernenden.
 
-* Ausgangspunkt ist die Frage nach der Definition eines Adjektivs. Es wird deutlich, dass Sprachwissenschaftler unterschiedliche Auffassungen vertreten. 
+**Ziel** ist es, eine **übersichtliche und verständliche Darstellung** der Adjektivdeklination zu entwickeln, um den Lernprozess zu erleichtern. 
 
-* Während einige Adjektive primär semantisch als Eigenschaftswörter definieren, betonen andere ihre syntaktische Funktion und die Fähigkeit zur Steigerung.
+**Um dieses Ziel zu erreichen**, werden zunächst verschiedene **Definitionen und Beschreibungen von Adjektiven** analysiert. Dabei wird deutlich, dass die Abhängigkeit der Adjektivendungen vom **Kontext** eine der größten Schwierigkeiten für Lernende darstellt.
 
-* Kernaussage ist, dass die Vielfalt der Adjektivendungen und ihre Abhängigkeit vom Kontext den größten Lernhindernis darstellen. 
+**Als Ergebnis** soll eine **Tabelle oder ein Schema** erstellt werden, das die verschiedenen Deklinationsmuster übersichtlich darstellt. 
 
-* Die Autoren wollen daher eine Übersicht erstellen, die den Lernenden die Adjektivdeklination vereinfacht und verständlich macht.
+**Fazit:** Der Text liefert eine solide Grundlage für die Erstellung eines Lehrmaterials, das die Adjektivdeklination für Deutschlerner vereinfacht. Dabei wird die Bedeutung des **Kontextes** und einer **klaren Struktur** hervorgehoben. 
 
-## Kernpunkte und Ziele.
+**Kernpunkte:**
 
-* Problem: Komplexität der Adjektivendungen.
-  
-* Ziel: Entwicklung einer übersichtlichen Darstellung der Adjektivdeklination für Deutschlerner.
-  
-* Grundlage: Analyse unterschiedlicher Definitionen und Beschreibungen von Adjektiven.
-  
-* Fokus: Die Abhängigkeit der Adjektivendungen vom Kontext als zentrale Schwierigkeit.
-  
-* Ergebnis: Erstellung einer Tabelle oder eines Schemas zur Veranschaulichung der Deklinationsmuster.
+* **Problem:** Komplexität der Adjektivendungen
+* **Ziel:** Vereinfachte Darstellung der Adjektivdeklination
+* **Methode:** Analyse verschiedener Definitionen und Erstellung einer Übersicht
+* **Fokus:** Bedeutung des Kontextes
+* **Ergebnis:** Tabelle oder Schema zur Veranschaulichung
 
-## Fazit.
-* Der Text liefert eine solide Grundlage für die Entwicklung eines Lehrmaterials zur Adjektivdeklination.
-  
-* Er betont die Notwendigkeit einer klaren und strukturierten Darstellung, um die Komplexität des Themas für Lernende zu reduzieren.
-  
-* Die Autoren erkennen die Bedeutung des Kontextes für die Wahl der richtigen Adjektivendung an und möchten dies in ihrem Material berücksichtigen.
+**In Kürze:** Der Text beschäftigt sich mit der Frage, wie man Deutschlernenden die komplizierte Adjektivdeklination besser beibringen kann. 
