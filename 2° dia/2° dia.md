@@ -9,10 +9,6 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 * **Streichen von Adjektiven:** Schneider empfiehlt, etwa zwei Drittel aller Adjektive als Füllwörter einzustufen und zu streichen.
 
 
-**Hinweis:**
-
-Auch wenn Schneiders Kritik an Adjektiven berechtigt sein mag, ist ein völliger Verzicht auf Adjektive in der Regel nicht sinnvoll. Adjektive können dazu beitragen, einen Text lebendiger und anschaulicher zu gestalten. Es kommt immer auf den Kontext und die gewünschte Wirkung an.
-
 **Zusätzliche Aspekte:**
 
 * **Stilistische Aspekte:** Die Verwendung von Adjektiven kann auch stilistische Funktionen erfüllen, z.B. um eine bestimmte Atmosphäre zu schaffen oder eine emotionale Wirkung zu erzielen.
