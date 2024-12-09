@@ -7,8 +7,3 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 * **Adjektive als Füllwörter:** Schneider argumentiert, dass viele Adjektive in Texten überflüssig sind und eher verwirren als klären. Sie würden Sätze aufblähen und die Lesbarkeit beeinträchtigen.
 * **Schädliche Wirkung von Adjektiven:** Adjektive können zu Mehrdeutigkeiten und Widersprüchen führen und die Aussage eines Satzes verwässern.
 * **Streichen von Adjektiven:** Schneider empfiehlt, etwa zwei Drittel aller Adjektive als Füllwörter einzustufen und zu streichen.
-
-
-**Fazit:**
-
-Schneiders Empfehlungen bieten eine wertvolle Anregung zur Überprüfung der eigenen Schreibweise. Ein bewusster Umgang mit Adjektiven kann dazu beitragen, Texte zu verbessern. 
