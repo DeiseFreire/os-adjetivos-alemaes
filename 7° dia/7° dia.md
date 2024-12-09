@@ -11,10 +11,6 @@ Die Flexion, also die Veränderung von Wortformen nach bestimmten Kategorien, is
 * **Andere Bestimmungen:** Auch andere Wörter wie Possessivpronomen (mein, dein, sein) können die Flexion beeinflussen.
 
 
-**Die Rolle der Monoflexion**
-
-Ein besonderes Merkmal der deutschen Sprache ist die sogenannte Monoflexion. Das bedeutet, dass die grammatischen Informationen (Genus, Numerus, Kasus) nur einmal pro Wortgruppe ausgedrückt werden. Entweder trägt der Artikel die Endungen oder das Adjektiv, aber nicht beide.
-
 **Vereinfachte Regeln**
 
 Um die Adjektivdeklination zu vereinfachen, kann man sich folgende Grundregel merken:
