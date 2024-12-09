@@ -11,13 +11,6 @@ Die Flexion, also die Veränderung von Wortformen nach bestimmten Kategorien, is
 * **Andere Bestimmungen:** Auch andere Wörter wie Possessivpronomen (mein, dein, sein) können die Flexion beeinflussen.
 
 
-**Vereinfachte Regeln**
-
-Um die Adjektivdeklination zu vereinfachen, kann man sich folgende Grundregel merken:
-
-* **Schwache Flexion:** Das Adjektiv wird schwach flektiert, wenn vor ihm ein Artikel oder ein Artikelwort mit einer Endung steht.
-* **Starke Flexion:** Das Adjektiv wird stark flektiert, wenn vor ihm kein Artikel oder ein Artikelwort ohne Endung steht.
-
 **Fazit**
 
 Die Adjektivdeklination ist ein komplexes Thema, das viel Übung erfordert. Durch das Verständnis der grundlegenden Regeln und der Monoflexion kann man jedoch die Schwierigkeiten meistern und die deutsche Sprache besser verstehen.
