@@ -9,16 +9,6 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 * **Streichen von Adjektiven:** Schneider empfiehlt, etwa zwei Drittel aller Adjektive als Füllwörter einzustufen und zu streichen.
 
 
-**Konkrete Vorschläge von Schneider:**
-
-Schneider empfiehlt, folgende Arten von Adjektiven zu streichen:
-
-* **Edelfüllsel:** Hochtrabende, wenig aussagekräftige Adjektive.
-* **Tautologien:** Wiederholungen desselben Sinns in unterschiedlichen Worten.
-* **Zerlegungen von Komposita:** Unnötige Aufspaltung von zusammengesetzten Wörtern.
-* **Umwandlungen von Substantiven:** Ersetzung von Substantiven durch weniger aussagekräftige Adjektiv-Substantiv-Verbindungen.
-* **Erfindungen von Adjektiven:** Künstlich gebildete Adjektive, die oft schwerfällig und unverständlich sind.
-
 **Fazit:**
 
 Schneider plädiert für einen sparsamen Umgang mit Adjektiven. Er sieht in ihnen oft eine Quelle für unpräzise und umständliche Sprache. Seine Vorschläge zielen darauf ab, Texte präziser, klarer und verständlicher zu gestalten.
