@@ -10,7 +10,3 @@ Die Flexion, also die Veränderung von Wortformen nach bestimmten Kategorien, is
 * **Kein Artikel oder unbestimmter Artikel:** Fehlt ein Artikel oder steht ein unbestimmter Artikel (ein, eine, ein) davor, wird das Adjektiv *stark* flektiert und erhält eine größere Vielfalt an Endungen (-e, -en, -er, -es, -em).
 * **Andere Bestimmungen:** Auch andere Wörter wie Possessivpronomen (mein, dein, sein) können die Flexion beeinflussen.
 
-
-**Fazit**
-
-Die Adjektivdeklination ist ein komplexes Thema, das viel Übung erfordert. Durch das Verständnis der grundlegenden Regeln und der Monoflexion kann man jedoch die Schwierigkeiten meistern und die deutsche Sprache besser verstehen.
