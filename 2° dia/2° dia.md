@@ -8,11 +8,6 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 * **Schädliche Wirkung von Adjektiven:** Adjektive können zu Mehrdeutigkeiten und Widersprüchen führen und die Aussage eines Satzes verwässern.
 * **Streichen von Adjektiven:** Schneider empfiehlt, etwa zwei Drittel aller Adjektive als Füllwörter einzustufen und zu streichen.
 
-**Probleme mit der Bezeichnung "Eigenschaftswort":**
-
-* **Überlappung mit anderen Wortarten:** Auch Substantive können Eigenschaften bezeichnen.
-* **Adjektive ohne Eigenschaftsbedeutung:** Einige Adjektive dienen eher zur Klassifizierung oder Bewertung.
-* **Moderne Grammatik:** Die Bestimmung von Wortarten erfolgt heute meist nach morpho-syntaktischen Kriterien, nicht nach semantischen.
 
 **Konkrete Vorschläge von Schneider:**
 
