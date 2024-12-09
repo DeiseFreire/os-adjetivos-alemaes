@@ -6,6 +6,5 @@ DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Fl
 
 Die Flexion, also die Veränderung von Wortformen nach bestimmten Kategorien, ist ein charakteristisches Merkmal des Deutschen. Bei Adjektiven hängen die Endungen von verschiedenen Faktoren ab, darunter:
 
-* **Kein Artikel oder unbestimmter Artikel:** Fehlt ein Artikel oder steht ein unbestimmter Artikel (ein, eine, ein) davor, wird das Adjektiv *stark* flektiert und erhält eine größere Vielfalt an Endungen (-e, -en, -er, -es, -em).
 * **Andere Bestimmungen:** Auch andere Wörter wie Possessivpronomen (mein, dein, sein) können die Flexion beeinflussen.
 
