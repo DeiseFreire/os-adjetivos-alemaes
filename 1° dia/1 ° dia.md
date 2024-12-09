@@ -13,13 +13,3 @@ Die **Hauptproblematik** liegt in der **Vielfalt und Komplexität** der Adjektiv
 **Als Ergebnis** soll eine **Tabelle oder ein Schema** erstellt werden, das die verschiedenen Deklinationsmuster übersichtlich darstellt. 
 
 **Fazit:** Der Text liefert eine solide Grundlage für die Erstellung eines Lehrmaterials, das die Adjektivdeklination für Deutschlerner vereinfacht. Dabei wird die Bedeutung des **Kontextes** und einer **klaren Struktur** hervorgehoben. 
-
-**Kernpunkte:**
-
-* **Problem:** Komplexität der Adjektivendungen
-* **Ziel:** Vereinfachte Darstellung der Adjektivdeklination
-* **Methode:** Analyse verschiedener Definitionen und Erstellung einer Übersicht
-* **Fokus:** Bedeutung des Kontextes
-* **Ergebnis:** Tabelle oder Schema zur Veranschaulichung
-
-**In Kürze:** Der Text beschäftigt sich mit der Frage, wie man Deutschlernenden die komplizierte Adjektivdeklination besser beibringen kann. 
