@@ -1,0 +1,3 @@
+DIETER, SCHMID. < 論文> Die deutschen Adjektive-ihre Verwendungsweise, ihre Flexion und die Frage: Wann benützt man welche Deklinationsart?. 外国語教育論集, n. 38, p. 1-16, 2016. 
+
+* **Kein Artikel oder unbestimmter Artikel:** Fehlt ein Artikel oder steht ein unbestimmter Artikel (ein, eine, ein) davor, wird das Adjektiv *stark* flektiert und erhält eine größere Vielfalt an Endungen (-e, -en, -er, -es, -em).
